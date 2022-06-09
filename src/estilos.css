@@ -1,0 +1,52 @@
+body{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.404);
+}
+
+
+.image-profile{
+    width: 200px;
+    height: 200px;
+}
+.name p{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.name h1{
+    text-align: center;
+    text-decoration: overline;
+}
+.educacion {
+    width: 400px;
+    height: 300px;
+    background-color: rgba(105, 105, 105, 0.342);
+    font-family: 'Times New Roman', Times, serif;
+}
+.educacion li{
+    text-align: left;
+}
+.educacion h5{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.skills{
+    width: 400px;
+    height: 200px;
+    background-color: rgba(131, 37, 9, 0.178);
+}
+.skills li{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hobbies{
+    text-align: left;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(219, 202, 202);
+}
+.hobbies h2{
+    text-align: center;
+}
